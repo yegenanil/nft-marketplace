@@ -41,7 +41,7 @@ function App() {
       <Topbar />
       <Sections>
         <Bgimg src={bgImg} />
-        <span>ses</span>
+        <span>to be continued</span>
       </Sections>
     </MainContainer>
   );
