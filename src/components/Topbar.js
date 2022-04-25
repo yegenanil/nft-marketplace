@@ -86,7 +86,7 @@ const TopbarWalletGroup = styled.div`
   position: relative;
   align-items: center;
   justify-content: center;
-  display: flex;
+  display: flex;  
 `;
 
 const TopbarWalletIcon = styled.img`
