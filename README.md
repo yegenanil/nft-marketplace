@@ -2,12 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/60621490/167406417-699b8a01-e957-4806-a04c-0f89bde1fca6.png" />
 
-# By Denny Satria 
+### By Denny Satria 
 
-### I converted Figma design to React 
+# https://www.figma.com/community/file/1092001412627112221
 
-## https://www.figma.com/community/file/1092001412627112221
-
+## I converted Figma design to React with styled-components
 
 # Cloning a repository
 
@@ -24,3 +23,5 @@
 1. Type git clone, and then paste the URL you copied earlier.
 
 1. Press Enter to create your local clone.
+
+### Documentation: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
