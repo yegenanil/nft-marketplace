@@ -12,7 +12,7 @@ I converted Figma design to React with styled-components
 
 1. Clone the project & enter the project directory
 ```
-git clone https://github.com/yegenanil/nft-marketplace.git && cd nft-marketplace.git
+git clone https://github.com/yegenanil/nft-marketplace.git && cd nft-marketplace
 ```
 2. Install dependencies via npm/yarn
 ```
